@@ -1,0 +1,12 @@
+1. Mapping file l “Browse” button Added create project that takes the user  csv file.
+2. Added "File uploaded" Message for all upload Functions.
+3. user can see the csv file without uploading in Extraction.
+4. Added truncated for the second column (Temporary solution).
+5. After you save a project, it shows  project_ID.
+6. Added Limit to only be able to see your user  projects and user run history.
+7. corrected misspelled text.
+8. Limited delete user function.
+9. Added Run History for key_value & Table Extraction Separately.
+10. Added screen Layout wide mode.
+11. Added Page_title "RSM US"
+12. Removed hamburger button in the top right.
